@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TLnx9s2n9sg51UFdzu+mi23ghQxx+gi89AYIlulIO8/oR2xEkRlbHV3GCkv+kyt/REr3Mj3GnLN8dEmwlkifxw==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\DesafioTJ\\DesafioTJ.Domain\\DesafioTJ.Domain.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.10.0.190:61775/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
