@@ -6,4 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DesafioTJ.Application\DesafioTJ.Application.csproj" />
+    <ProjectReference Include="..\DesafioTJ.Infra.IoC\DesafioTJ.Infra.IoC.csproj" />
+  </ItemGroup>
+
 </Project>

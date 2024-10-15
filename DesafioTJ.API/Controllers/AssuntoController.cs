@@ -1,5 +1,5 @@
-﻿using DesafioTJ.Application.Interfaces;
-using DesafioTJ.Domain.Entities;
+﻿using DesafioTJ.Application.Dtos;
+using DesafioTJ.Application.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DesafioTJ.API.Controllers

@@ -1,4 +1,4 @@
-﻿namespace DesafioTJ.Domain.Entities
+﻿namespace DesafioTJ.Application.Dtos
 {
     public class LivroAutorDto
     {

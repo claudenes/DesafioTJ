@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using DesafioTJ.Application.Dtos;
 using DesafioTJ.Application.Interfaces;
 using DesafioTJ.Domain.Entities;
 using DesafioTJ.Domain.Interfaces;
@@ -16,27 +17,27 @@ namespace DesafioTJ.Application.Services
             _mapper = mapper;
         }
 
-        public AutorDto Create(AutorDto autor)
+        public async Task<AutorDto> Create(AutorDto autor)
         {
             return _mapper.Map<AutorDto>(_repository.Create(_mapper.Map<Autor>(autor)));
         }
       
-        public AutorDto Delete(int Id)
+        public async Task<AutorDto> Delete(int Id)
         {
             return _mapper.Map<AutorDto>(_repository.Delete(Id));
         }
 
-        public IEnumerable<AutorDto> ListAll()
+        public async Task<IEnumerable<AutorDto>> ListAll()
         {
             return _mapper.Map<IEnumerable<AutorDto>>(_repository.ReadAll());
         }
 
-        public AutorDto Read(int Id)
+        public async Task<AutorDto> Read(int Id)
         {
             return _mapper.Map<AutorDto>(_repository.ReadById(Id));
         }
 
-        public AutorDto Update(AutorDto autor)
+        public async Task<AutorDto> Update(AutorDto autor)
         {
             return _mapper.Map<AutorDto>(_repository.Update(_mapper.Map<Autor>(autor)));
         }

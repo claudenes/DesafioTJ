@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using DesafioTJ.Application.Dtos;
 using DesafioTJ.Application.Interfaces;
 using DesafioTJ.Domain.Entities;
 using DesafioTJ.Domain.Interfaces;

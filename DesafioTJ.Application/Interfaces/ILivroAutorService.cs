@@ -1,4 +1,4 @@
-﻿using DesafioTJ.Domain.Entities;
+﻿using DesafioTJ.Application.Dtos;
 
 namespace DesafioTJ.Application.Interfaces
 {

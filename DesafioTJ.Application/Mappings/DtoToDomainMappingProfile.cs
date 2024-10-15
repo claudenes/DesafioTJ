@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using DesafioTJ.Application.Dtos;
 using DesafioTJ.Domain.Entities;
 
 namespace DesafioTJ.Application.Mappings

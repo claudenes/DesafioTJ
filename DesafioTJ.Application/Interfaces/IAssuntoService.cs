@@ -1,14 +1,14 @@
-﻿using DesafioTJ.Domain.Entities;
+﻿using DesafioTJ.Application.Dtos;
 
 namespace DesafioTJ.Application.Interfaces
 {
     public interface IAssuntoService
     {
-        AssuntoDto Create(AssuntoDto assunto);
-        AssuntoDto Read(int Id);
-        AssuntoDto Update(AssuntoDto assunto);
-        AssuntoDto Delete(int Id);
-        IEnumerable<AssuntoDto> ListAll();
+        Task<AssuntoDto> Create(AssuntoDto assunto);
+        Task<AssuntoDto> Read(int Id);
+        Task<AssuntoDto> Update(AssuntoDto assunto);
+        Task<AssuntoDto> Delete(int Id);
+        Task<IEnumerable<AssuntoDto>> ListAll();
 
     }
 }

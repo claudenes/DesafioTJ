@@ -1,14 +1,14 @@
-﻿using DesafioTJ.Domain.Entities;
+﻿using DesafioTJ.Application.Dtos;
 
 namespace DesafioTJ.Application.Interfaces
 {
     public interface IAutorService
     {
-        AutorDto Create(AutorDto autor);
-        AutorDto Read(int Id);
-        AutorDto Update(AutorDto autor);
-        AutorDto Delete(int Id);
-        IEnumerable<AutorDto> ListAll();
+        Task<AutorDto> Create(AutorDto autor);
+        Task<AutorDto> Read(int Id);
+        Task<AutorDto> Update(AutorDto autor);
+        Task<AutorDto> Delete(int Id);
+        Task<IEnumerable<AutorDto>> ListAll();
 
     }
 }
