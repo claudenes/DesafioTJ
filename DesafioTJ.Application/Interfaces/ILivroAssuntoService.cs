@@ -1,6 +1,6 @@
 ﻿using DesafioTJ.Domain.Entities;
 
-namespace Ambev.Application.Interfaces
+namespace DesafioTJ.Application.Interfaces
 {
     public interface ILivroAssuntoService
     {
