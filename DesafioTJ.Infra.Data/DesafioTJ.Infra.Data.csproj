@@ -13,4 +13,16 @@
     <Folder Include="Queries\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="Dapper" Version="2.1.35" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.35" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.35" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DesafioTJ.Application\DesafioTJ.Application.csproj" />
+    <ProjectReference Include="..\DesafioTJ.Domain\DesafioTJ.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
