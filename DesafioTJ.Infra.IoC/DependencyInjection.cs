@@ -23,7 +23,7 @@ namespace DesafioTJ.Infra.IoC
             services.AddScoped<ILivroRepository, LivroRepository>();
             services.AddAutoMapper(typeof(DomainToDtoMappingProfile));
 
-            var myhandlers = AppDomain.CurrentDomain.Load("Ambev.Application");
+            var myhandlers = AppDomain.CurrentDomain.Load("DesafioTJ.Application");
 
             return services;
         }

@@ -1,0 +1,11 @@
+C:\Projetos\DesafioTJ\DesafioTJ.Domain\bin\Debug\net6.0\DesafioTJ.Domain.deps.json
+C:\Projetos\DesafioTJ\DesafioTJ.Domain\bin\Debug\net6.0\DesafioTJ.Domain.dll
+C:\Projetos\DesafioTJ\DesafioTJ.Domain\bin\Debug\net6.0\DesafioTJ.Domain.pdb
+C:\Projetos\DesafioTJ\DesafioTJ.Domain\obj\Debug\net6.0\DesafioTJ.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DesafioTJ\DesafioTJ.Domain\obj\Debug\net6.0\DesafioTJ.Domain.AssemblyInfoInputs.cache
+C:\Projetos\DesafioTJ\DesafioTJ.Domain\obj\Debug\net6.0\DesafioTJ.Domain.AssemblyInfo.cs
+C:\Projetos\DesafioTJ\DesafioTJ.Domain\obj\Debug\net6.0\DesafioTJ.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\DesafioTJ\DesafioTJ.Domain\obj\Debug\net6.0\DesafioTJ.Domain.dll
+C:\Projetos\DesafioTJ\DesafioTJ.Domain\obj\Debug\net6.0\refint\DesafioTJ.Domain.dll
+C:\Projetos\DesafioTJ\DesafioTJ.Domain\obj\Debug\net6.0\DesafioTJ.Domain.pdb
+C:\Projetos\DesafioTJ\DesafioTJ.Domain\obj\Debug\net6.0\ref\DesafioTJ.Domain.dll

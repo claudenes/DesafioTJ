@@ -1,0 +1,17 @@
+C:\Projetos\DesafioTJ\DesafioTJ.Infra.Data\bin\Debug\net6.0\DesafioTJ.Infra.Data.deps.json
+C:\Projetos\DesafioTJ\DesafioTJ.Infra.Data\bin\Debug\net6.0\DesafioTJ.Infra.Data.dll
+C:\Projetos\DesafioTJ\DesafioTJ.Infra.Data\bin\Debug\net6.0\DesafioTJ.Infra.Data.pdb
+C:\Projetos\DesafioTJ\DesafioTJ.Infra.Data\bin\Debug\net6.0\DesafioTJ.Application.dll
+C:\Projetos\DesafioTJ\DesafioTJ.Infra.Data\bin\Debug\net6.0\DesafioTJ.Domain.dll
+C:\Projetos\DesafioTJ\DesafioTJ.Infra.Data\bin\Debug\net6.0\DesafioTJ.Application.pdb
+C:\Projetos\DesafioTJ\DesafioTJ.Infra.Data\bin\Debug\net6.0\DesafioTJ.Domain.pdb
+C:\Projetos\DesafioTJ\DesafioTJ.Infra.Data\obj\Debug\net6.0\DesafioTJ.Infra.Data.csproj.AssemblyReference.cache
+C:\Projetos\DesafioTJ\DesafioTJ.Infra.Data\obj\Debug\net6.0\DesafioTJ.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DesafioTJ\DesafioTJ.Infra.Data\obj\Debug\net6.0\DesafioTJ.Infra.Data.AssemblyInfoInputs.cache
+C:\Projetos\DesafioTJ\DesafioTJ.Infra.Data\obj\Debug\net6.0\DesafioTJ.Infra.Data.AssemblyInfo.cs
+C:\Projetos\DesafioTJ\DesafioTJ.Infra.Data\obj\Debug\net6.0\DesafioTJ.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Projetos\DesafioTJ\DesafioTJ.Infra.Data\obj\Debug\net6.0\DesafioTJ.Infra.Data.csproj.CopyComplete
+C:\Projetos\DesafioTJ\DesafioTJ.Infra.Data\obj\Debug\net6.0\DesafioTJ.Infra.Data.dll
+C:\Projetos\DesafioTJ\DesafioTJ.Infra.Data\obj\Debug\net6.0\refint\DesafioTJ.Infra.Data.dll
+C:\Projetos\DesafioTJ\DesafioTJ.Infra.Data\obj\Debug\net6.0\DesafioTJ.Infra.Data.pdb
+C:\Projetos\DesafioTJ\DesafioTJ.Infra.Data\obj\Debug\net6.0\ref\DesafioTJ.Infra.Data.dll
